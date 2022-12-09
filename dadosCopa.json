@@ -1,0 +1,288 @@
+[
+    {
+       "id":57,
+       "venue":"Education City Stadium",
+       "location":"Doha",
+       "status":"future_scheduled",
+       "attendance":null,
+       "stage_name":"Quarter-final",
+       "home_team_country":"CRO",
+       "away_team_country":"BRA",
+       "datetime":"2022-12-09T15:00:00Z",
+       "winner":null,
+       "winner_code":null,
+       "home_team":{
+          "country":"CRO",
+          "name":"Croatia",
+          "goals":null,
+          "penalties":null
+       },
+       "away_team":{
+          "country":"BRA",
+          "name":"Brazil",
+          "goals":null,
+          "penalties":null
+       },
+       "weather":{
+          "humidity":null,
+          "temp_celsius":null,
+          "temp_farenheit":null,
+          "wind_speed":null,
+          "description":null
+       },
+       "time":null,
+       "detailed_time":null,
+       "officials":[
+          {
+             "name":"Michael OLIVER",
+             "role":"Referee",
+             "country":"ENG"
+          },
+          {
+             "name":"Stuart BURT",
+             "role":"Assistant Referee 1",
+             "country":"ENG"
+          },
+          {
+             "name":"Gary BESWICK",
+             "role":"Assistant Referee 2",
+             "country":"ENG"
+          },
+          {
+             "name":"M. Ghorbal",
+             "role":"Fourth official",
+             "country":"ALG"
+          },
+          {
+             "name":"Pol VAN BOEKEL",
+             "role":"Video Assistant Referee (VAR)",
+             "country":"NED"
+          },
+          {
+             "name":"Kathryn NESBITT",
+             "role":"Offside VAR",
+             "country":"USA"
+          },
+          {
+             "name":"M. Irrati",
+             "role":"Assistant VAR",
+             "country":"ITA"
+          },
+          {
+             "name":"Juan SOTO",
+             "role":"Support VAR",
+             "country":"VEN"
+          },
+          {
+             "name":"Abdelhak ETCHIALI",
+             "role":"Reserve Assistant Referee",
+             "country":"ALG"
+          }
+       ],
+       "home_team_events":[
+          
+       ],
+       "away_team_events":[
+          
+       ],
+       "home_team_lineup":{
+          "country":"CRO",
+          "tactics":"",
+          "starting_eleven":null,
+          "substitutes":null
+       },
+       "away_team_lineup":{
+          "country":"BRA",
+          "tactics":"",
+          "starting_eleven":null,
+          "substitutes":null
+       },
+       "home_team_statistics":{
+          "country":"CRO",
+          "attempts_on_goal":null,
+          "attempts_on_goal_against":null,
+          "on_target":null,
+          "off_target":null,
+          "blocked":null,
+          "corners":null,
+          "offsides":null,
+          "num_passes":null,
+          "passes_completed":null,
+          "tackles":null,
+          "free_kicks":null,
+          "goal_kicks":null,
+          "penalties":null,
+          "penalties_scored":null,
+          "throw_ins":null,
+          "yellow_cards":null,
+          "red_cards":null,
+          "fouls_committed":null
+       },
+       "away_team_statistics":{
+          "country":"BRA",
+          "attempts_on_goal":null,
+          "attempts_on_goal_against":null,
+          "on_target":null,
+          "off_target":null,
+          "blocked":null,
+          "corners":null,
+          "offsides":null,
+          "num_passes":null,
+          "passes_completed":null,
+          "tackles":null,
+          "free_kicks":null,
+          "goal_kicks":null,
+          "penalties":null,
+          "penalties_scored":null,
+          "throw_ins":null,
+          "yellow_cards":null,
+          "red_cards":null,
+          "fouls_committed":null
+       },
+       "last_checked_at":"2022-12-09T10:55:17Z",
+       "last_changed_at":"2022-12-09T10:55:17Z"
+    },
+    {
+       "id":58,
+       "venue":"Lusail Stadium",
+       "location":"Al Daayen",
+       "status":"future_scheduled",
+       "attendance":null,
+       "stage_name":"Quarter-final",
+       "home_team_country":"NED",
+       "away_team_country":"ARG",
+       "datetime":"2022-12-09T19:00:00Z",
+       "winner":null,
+       "winner_code":null,
+       "home_team":{
+          "country":"NED",
+          "name":"Netherlands",
+          "goals":null,
+          "penalties":null
+       },
+       "away_team":{
+          "country":"ARG",
+          "name":"Argentina",
+          "goals":null,
+          "penalties":null
+       },
+       "weather":{
+          "humidity":null,
+          "temp_celsius":null,
+          "temp_farenheit":null,
+          "wind_speed":null,
+          "description":null
+       },
+       "time":null,
+       "detailed_time":null,
+       "officials":[
+          {
+             "name":"Antonio MATEU",
+             "role":"Referee",
+             "country":"ESP"
+          },
+          {
+             "name":"Pau CEBRIAN",
+             "role":"Assistant Referee 1",
+             "country":"ESP"
+          },
+          {
+             "name":"Roberto DIAZ",
+             "role":"Assistant Referee 2",
+             "country":"ESP"
+          },
+          {
+             "name":"Victor GOMES",
+             "role":"Fourth official",
+             "country":"RSA"
+          },
+          {
+             "name":"Alejandro HERNANDEZ",
+             "role":"Video Assistant Referee (VAR)",
+             "country":"ESP"
+          },
+          {
+             "name":"A. Giallatini",
+             "role":"Offside VAR",
+             "country":"ITA"
+          },
+          {
+             "name":"Drew FISCHER",
+             "role":"Assistant VAR",
+             "country":"CAN"
+          },
+          {
+             "name":"Julio BASCUNAN",
+             "role":"Support VAR",
+             "country":"CHI"
+          },
+          {
+             "name":"Kyle ATKINS",
+             "role":"Reserve Assistant Referee",
+             "country":"USA"
+          }
+       ],
+       "home_team_events":[
+          
+       ],
+       "away_team_events":[
+          
+       ],
+       "home_team_lineup":{
+          "country":"NED",
+          "tactics":"",
+          "starting_eleven":null,
+          "substitutes":null
+       },
+       "away_team_lineup":{
+          "country":"ARG",
+          "tactics":"",
+          "starting_eleven":null,
+          "substitutes":null
+       },
+       "home_team_statistics":{
+          "country":"NED",
+          "attempts_on_goal":null,
+          "attempts_on_goal_against":null,
+          "on_target":null,
+          "off_target":null,
+          "blocked":null,
+          "corners":null,
+          "offsides":null,
+          "num_passes":null,
+          "passes_completed":null,
+          "tackles":null,
+          "free_kicks":null,
+          "goal_kicks":null,
+          "penalties":null,
+          "penalties_scored":null,
+          "throw_ins":null,
+          "yellow_cards":null,
+          "red_cards":null,
+          "fouls_committed":null
+       },
+       "away_team_statistics":{
+          "country":"ARG",
+          "attempts_on_goal":null,
+          "attempts_on_goal_against":null,
+          "on_target":null,
+          "off_target":null,
+          "blocked":null,
+          "corners":null,
+          "offsides":null,
+          "num_passes":null,
+          "passes_completed":null,
+          "tackles":null,
+          "free_kicks":null,
+          "goal_kicks":null,
+          "penalties":null,
+          "penalties_scored":null,
+          "throw_ins":null,
+          "yellow_cards":null,
+          "red_cards":null,
+          "fouls_committed":null
+       },
+       "last_checked_at":"2022-12-09T10:54:53Z",
+       "last_changed_at":"2022-12-09T10:54:53Z"
+    }
+]
