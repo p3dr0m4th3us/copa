@@ -20,7 +20,7 @@
        "away_team":{
           "country":"BRA",
           "name":"Brazil",
-          "goals":null,
+          "goals":1,
           "penalties":null
        },
        "weather":{
